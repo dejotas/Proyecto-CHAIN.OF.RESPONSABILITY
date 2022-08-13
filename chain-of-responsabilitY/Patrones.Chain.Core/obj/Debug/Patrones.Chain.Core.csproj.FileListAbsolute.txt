@@ -1,0 +1,6 @@
+B:\TRABAJOS INSTITUTO ITQ\PROGRAMCION 4\DEFENSA PROYECTO\patr-n-chain-of-responsability-en-c-sharp-master\Patrones.Chain.Core\bin\Debug\Patrones.Chain.Core.dll
+B:\TRABAJOS INSTITUTO ITQ\PROGRAMCION 4\DEFENSA PROYECTO\patr-n-chain-of-responsability-en-c-sharp-master\Patrones.Chain.Core\bin\Debug\Patrones.Chain.Core.pdb
+B:\TRABAJOS INSTITUTO ITQ\PROGRAMCION 4\DEFENSA PROYECTO\patr-n-chain-of-responsability-en-c-sharp-master\Patrones.Chain.Core\obj\Debug\Patrones.Chain.Core.csproj.AssemblyReference.cache
+B:\TRABAJOS INSTITUTO ITQ\PROGRAMCION 4\DEFENSA PROYECTO\patr-n-chain-of-responsability-en-c-sharp-master\Patrones.Chain.Core\obj\Debug\Patrones.Chain.Core.csproj.CoreCompileInputs.cache
+B:\TRABAJOS INSTITUTO ITQ\PROGRAMCION 4\DEFENSA PROYECTO\patr-n-chain-of-responsability-en-c-sharp-master\Patrones.Chain.Core\obj\Debug\Patrones.Chain.Core.dll
+B:\TRABAJOS INSTITUTO ITQ\PROGRAMCION 4\DEFENSA PROYECTO\patr-n-chain-of-responsability-en-c-sharp-master\Patrones.Chain.Core\obj\Debug\Patrones.Chain.Core.pdb
